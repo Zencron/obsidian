@@ -1,0 +1,389 @@
+---
+tags:
+  - Keep
+---
+
+
+- [X] Borat
+- [X] Studio Ghibli
+- [X] Yes Man
+- [X] Seeking a Friend for the end of the world
+- [X] Little Miss Sunshine
+- [X] Juno
+- [X] Hot Fuzz
+- [X] You're The Worst
+- [X] when you finish saving the world
+- [x] zack and miri make a porno
+- [X] Shes out of my league
+- [X] full river red
+- [X] happy together
+- [X] derry girls
+- [X] triangle of sadness
+- [X] riceboy sleeps
+- [X] nope
+- [X] heartstopper
+- [X] no hard feelings
+- [X] entergalactic
+- [X] weird
+- [X] The Banshees of Inisherin
+- [X] aftersun
+- [X] pig
+- [X] licorice pizza
+- [X] nomadland
+- [X] minari
+- [X] toy story 4
+- [X] three thousand years of longing
+- [X] wolf children
+- [X] i want to eat your pancreas
+- [X] night sky
+- [X] the legend of vox machina
+- [X] rings of power
+- [X] tsuki ga kirei - jeremys romance recommendation
+- [X] wheel of time
+- [X] over the garden wall
+- [X] hobbit 5 armies
+- [X] Stranger Things
+- [X] SAO
+- [X] They Live
+- [X] The Truman Show
+- [X] Moon movie
+- [X] The way way back
+- [X] St vincent
+- [X] Balls Out
+- [X] Kung Pow
+- [X] Forrest Gump
+- [X] Unfinished Song
+- [X] Adventureland
+- [X] The Kings of Summer
+- [X] The Outsiders
+- [X] Amost famous
+- [X] Superbad
+- [X] Stand by me
+- [X] Mean girls
+- [X] Cant hardly wait
+- [X] The grey
+- [X] the third man
+- [X] The way way back
+- [X] Steve lichman
+- [X] In Bruges
+- [X] Reno 911
+- [X] The lobster
+- [X] Goodfellas
+- [X] Arq
+- [X] Guardians of the galaxy
+- [X] Naruto/fairy tail
+- [X] Westworld
+- [X] The cat in the hat
+- [X] Dog with a blog
+- [X] Trailer park boys
+- [X] What maisie knew
+- [X] Wallace and gromit
+- [X] Sharknado
+- [X] Liv and maddie
+- [X] Minority report
+- [X] Shaun the sheep movie
+- [X] Incredibles
+- [X] Spy
+- [X] Jersey girl
+- [X] Age of ultron
+- [X] Gangster squad
+- [X] Not another teen movie
+- [X] Heavyweights
+- [X] Best friends whenever
+- [X] Hell or high water
+- [X] Arrival
+- [X] Spring
+- [X] Super troopers
+- [X] ah long pte ltd
+- [X] the brothers grimsby
+- [X] the edge of seventeen
+- [X] james bond
+- [X] log horizon
+- [X] american psycho
+- [X] District 9 
+- [X] inception
+- [X] My Cousin Vinny 
+- [X] Me Before You 
+- [X] Love Actually
+- [X] about time
+- [X] no stranger than love
+- [X] master of none
+- [X] rectify
+- [X] your name
+- [X] orange is the new black
+- [X] mary and the witches flower
+- [X] i love you beth cooper
+- [X] youth in revolt
+- [X] whiplash
+- [X] into the badlands
+- [X] camp x ray
+- [X] charlie bartlett
+- [X] rocket science
+- [X] son of rambow
+- [X] the squid and the whale
+- [X] hairspray
+- [X] aquamarine
+- [X] john tucker must die
+- [X] the sisterhood of the traveling pants
+- [X] thumbsucker
+- [X] napoleon dynamite
+- [X] Still Alice 
+- [X] the girl next door
+- [X] Being John Malkovich
+- [X] Freaky Friday 
+- [X] camp
+- [X] y tu mama tambien
+- [X] Crazy/Beautiful 
+- [X] me without you
+- [X] like crazy
+- [X] Take Me Home Tonight 
+- [X] No Strings Attached 
+- [X] the 40 year old virgin
+- [X] this is 40
+- [X] the secret life of walter mitty
+- [X] elysium
+- [X] oblivion
+- [X] looper
+- [X] O Brother, Where Art Thou? 
+- [X] mondaiji
+- [X] The Hot Chick 
+- [X] Bridget Jones's Diary 
+- [X] Knocked Up 
+- [X] 10 Things I Hate About You 
+- [X] ten inch hero
+- [X] Definitely, Maybe 
+- [X] The Change-Up 
+- [X] shes all that
+- [X] cant hardly wait
+- [X] divine secrets of the ya ya sisterhood
+- [X] enchanted
+- [X] Coyote Ugly 
+- [X] pretty woman
+- [X] the big sick
+- [X] dont think twice
+- [X] the nice guys
+- [X] hes just not that into you
+- [X] What We Do in the Shadows 
+- [X] Hunt for the Wilderpeople 
+- [X] harry potter
+- [X] 12 Monkeys 
+- [X] hot rod
+- [X] snatch
+- [X] waynes world
+- [X] A Street Cat Named Bob 
+- [X] Anna Karenina 
+- [X] Fan girl
+- [X] Whisky galore
+- [X] The young kieslowski
+- [X] Moonlight 
+- [X] lady bird
+- [X] Shaun of the Dead 
+- [X] The Boat That Rocked
+- [X] On the Road
+- [X] Into the Wild 
+- [X] Kill command
+- [X] Predestination 
+- [X] Blue Is the Warmest Colour 
+- [X] Moneyball
+- [X] Ghost world
+- [X] Jiro Dreams Of Sushi 
+- [X] This is us
+- [X] black sea
+- [X] the graveyard book
+- [X] the mermaid
+- [X] It
+- [X] Coco
+- [X] Jumanji
+- [X] Murder on the Orient Express 
+- [X] Your highness
+- [X] Anywhere but here
+- [X] Mr magoriums wonder emporium
+- [X] departures
+- [X] pans labyrinth
+- [X] fargo
+- [X] Vicky Cristina Barcelona 
+- [X] Match Point 
+- [X] antz
+- [X] A Bug's Life 
+- [X] Cuban fury
+- [X] Love, Rosie 
+- [X] date and switch
+- [X] obvious child
+- [X] Synecdoche, New York 
+- [X] venture bros
+- [X] watchmen
+- [X] Three Billboards Outside Ebbing, Missouri 
+- [X] i give it a year
+- [X] The Tale of Princess Kaguya 
+- [X] The Accountant 
+- [X] the legend of bagger vance
+- [X] Forgetting Sarah Marshall 
+- [X] john wick
+- [X] okja
+- [X] downsizing
+- [X] suck it up
+- [X] good time
+- [X] Ingrid Goes West 
+- [X] Hell or High Water
+- [X] The Magnificent Seven 
+- [X] Jason Bourne 
+- [X] hardcore henry
+- [X] Sausage Party 
+- [X] eye in the sky
+- [X] the nice guys
+- [X] Everybody Wants Some!! 
+- [X] moonlight
+- [X] Zoolander 
+- [X] uhf
+- [X] About Time 
+- [X] when the wind blows
+- [X] plague dogs
+- [X] happiness
+- [X] Watership Down 
+- [X] leave no trace
+- [X] The Parent Trap
+- [X] Matilda 
+- [X] a boy named charlie brown
+- [X] fox and the hound
+- [X] I Don't Feel at Home in This World Anymore 
+- [X] click
+- [X] goon
+- [X] stranger than fiction
+- [X] black dynamite
+- [X] gattaca
+- [X] stardust
+- [X] Keeping Up with the Joneses 
+- [X] still walking
+- [X] The To Do List 
+- [X] roger dodger
+- [X] The Diary of a Teenage Girl 
+- [X] the rules of attraction
+- [X] sorry to bother you
+- [X] I, Daniel Blake 
+- [X] funny people
+- [X] throughbreds
+- [X] punch drunk love
+- [X] you dont mess with the zohan
+- [X] Zootopia 
+- [X] zoolander
+- [X] Hell or High Water
+- [X] Carol
+- [X] Room
+- [X] Before Midnight 
+- [X] The little mermaid
+- [X] Wayne's World
+- [X] Tinker Tailor Soldier Spy 
+- [X] eighth grade
+- [X] serendipity
+- [X] Call Me by Your Name 
+- [X] how do you know
+- [X] mastermind
+- [X] hall pass
+- [X] music and lyrics
+- [X] these final hours
+- [X] Dirty Grandpa 
+- [X] gone girl
+- [X] Collateral Beauty 
+- [X] snatch
+- [X] Breaking and exiting
+- [X] waiting forever
+- [X] the pill
+- [X] shes the man
+- [X] what a girl wants
+- [X] ronin
+- [X] orphan black
+- [X] The Nice Guys 
+- [X] john wick
+- [X] Kubo and the Two Strings 
+- [X] Manchester by the Sea 
+- [X] dirk gently
+- [X] flipped
+- [X] Eternal Sunshine of the Spotless Mind 
+- [X] kimi no na wa
+- [X] the notebook
+- [X] the fault in our stars
+- [X] dear john
+- [X] the vow
+- [X] A Walk to Remember
+- [X] remember me
+- [X] hilda
+- [X] Spaceballs 
+- [X] manhattan love story
+- [X] Spirit stallion of the cimarron
+- [X] cafe waiting love
+- [X] big fish begonia
+- [X] the man who killed hitler and then the bigfoot
+- [X] long shot
+- [X] lego movie 2
+- [X] missing link
+- [X] shazam
+- [X] the kid who would be king
+- [X] brittany runs a marathon
+- [X] giant little ones
+- [X] the right kind of wrong
+- [X] always be my maybe
+- [X] long shot
+- [X] for love or money
+- [X] Sleeping with Other People 
+- [X] When We First Met 
+- [X] home again
+- [X] measure of a man
+- [X] Dirty Dancing 
+- [X] wonder
+- [X] good boys
+- [X] i feel pretty
+- [X] the intern
+- [X] electric love
+- [X] support the girls
+- [X] your sisters sister
+- [X] table 19
+- [X] flower
+- [X] sunshine cleaning
+- [X] junebug
+- [X] adaptation
+- [X] my big fat greek wedding
+- [X] peel
+- [X] im not here
+- [X] laggies
+- [X] strange but true
+- [X] jack of the red hearts
+- [X] murderball
+- [X] dont talk to irene
+- [X] undone
+- [X] russian doll
+- [X] fleabag
+- [X] the longest ride
+- [X] buffaloed
+- [X] come as you are
+- [X] end of watch
+- [X] long shot
+- [X] peanut butter falcon
+- [X] Swiss Army Man 
+- [X] The Fundamentals of Caring 
+- [X] To the Bone 
+- [X] tallulah
+- [X] the call of the wild
+- [X] giant little ones
+- [X] banana split
+- [X] dumplin
+- [X] end of sentence
+- [X] booksmart
+- [X] drive
+- [X] a silent voice
+- [X] 10 things i hate about you
+- [X] Garden State 
+- [X] flipped
+- [X] the first wives club
+- [X] phantom thread
+- [X] isnt it romantic
+- [X] down with love
+- [X] front of the class
+- [X] freedom writers
+- [X] tekkonkinkreet
+- [X] leave no trace
+- [X] this is where i leave you
+- [X] belle
+- [X] Tinker Tailor Soldier Spy 
+- [X] before i fall
+- [X] if i stay
+- [X] Cloud Atlas 

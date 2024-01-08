@@ -1,0 +1,2 @@
+
+prisoners rarely have the desire to pretend that they are prisoners. only the free can choose to make believe. to my thinking, being able to play with roles, to some degree, goes to indicating that you are no longer controlled by them.

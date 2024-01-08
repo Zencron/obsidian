@@ -1,0 +1,122 @@
+---
+tags:
+  - Keep
+  - Archived
+---
+
+
+- [ ] moved to todoist as of 4/9/23
+- [ ] review daylio entries for the past few months. take some time to reflect
+- [ ] take leave for dec
+- [ ] take leave for wee kiak in oct
+- [ ] prep for 9.9 shopee sale
+- [ ] make plans for oppenheimer
+- [ ] download and archive dbs estatements. maybe also ocbc
+- [ ] use 2 shaw vouchers by jun '24
+- [ ] look into new pc. build my own ?
+- [ ] research and buy another sgx dividend stock, on stanchart for the rebate. probably a reit. maybe not stanchart tho cause they're not cdp
+- [ ] apply for and get new passport
+- [ ] check protein and buy more
+- [ ] sign up for japanipl
+- [ ] get new battery for film camera
+- [ ] use crowdtask sg money. 20 cents left 🤔🤔
+- [ ] upload photos/videos onto external harddrive for storage
+- [ ] settle giving away/selling epilator
+- [ ] go thru old pics and documents in study room and back them up
+- [ ] look into geocaching
+- [ ] swap umbrella velcro with button
+- [ ] look into/apply for credit card
+- [ ] look thru travel pics and shortlist
+- [ ] look into pickleball
+- [ ] small hydroflask kinda leaking sometimes when in bag? fix or buy new
+- [ ] organize room
+- [ ] organize bathroom cupboard
+- [ ] organize the kitchen
+- [ ] convert dartslive cards back for cash
+- [ ] sort and get rid of old clothes
+- [ ] figure out sink tap
+- [ ] lube wallet zip
+- [ ] list and sell mtg cards
+- [ ] find out about and book cc verification. on hold since sophie injured her back. with jordan now?
+- [ ] clean up onedrive storage
+- [ ] write luke a text apologizing for stealing his r4 ?
+- [ ] write christy a text. also:
+- [X] consider a new kanban/trello style todo list instead of lists. maybe try trello mobile?
+- [X] sort through keep movies and i guess books and whatever as well
+- [X] organize shoes
+- [X] look into uob one bank account. also ocbc 365
+- [X] set giro transfer 500 to mum
+- [X] refactor expenses into benefaction. gifts and treats
+- [X] refactor past expenses for benefaction
+- [X] aug
+- [X] jul
+- [X] jun
+- [X] may
+- [X] apr
+- [X] fix jabras/ get new ones/ get from sophie
+- [X] use/sell bw passes
+- [X] book badminton courts to play with cody / make plans with cody
+- [X] book badminton/yoga for sunday
+- [X] buy uniqlo shirts/pants
+- [X] fix front door
+- [X] clean up badminton notes
+- [X] cut hair
+- [X] use $50 dian xiao er voucher by approx november
+- [X] use kfc voucher by 30 aug
+- [X] consider a new laptop/pc. honestly i think macbook + pc is a good combo. yea but i dont need a laptop tbh. maybe pc when my bolt breaks
+- [X] organize travel pics
+- [X] send pc for aftershock repair?
+- [X] make some sticker packs
+- [X] buy bff passes by 28 july
+- [X] settle trs passes
+- [X] collect racket from tampines
+- [X] settle camping stuff
+- [X] arrange badminton with ms this week
+- [X] arrange badminton with ms and cody sometime
+- [X] screenshot agape and sumone convos
+- [X] wash phone case
+- [X] fix window blinds
+- [X] find and organize and sell(?) mtg cards and study room
+- [X] buy uniqlo
+- [X] update profile photos
+- [X] maybe drop down all old daylio entries by 1 so the average is meh instead of good. done till may
+- [X] restring racket
+- [X] mend badminton bag strap
+- [X] order and buy some cdg shares
+- [X] settle hanoi trip w cody and ms
+- [X] sort though sock drawer
+- [X] organize badminton on sunday
+- [X] organize a meetup with mingsheng and cody
+- [X] research aviva insurance and maybe cancel
+- [X] the girls?
+- [X] do some financial accounting. see how much money i have right now and where it is
+- [X] think about sophie and our relationship long term wise
+- [X] look through savings accounts and credit cards and apply
+- [X] sign up for yuu
+- [X] finish up fyp oral presentation
+- [X] research oiling/lubing wallet zip
+- [X] research replacing velcro with buttons on umbrellas
+- [X] jio danielle and shuting for movie
+- [X] clean up phone images and onedrive storage
+- [X] pre pack for thailand trip
+- [X] finish cleaning up my phone
+- [X] make plans for badminton on sunday
+- [X] call revolut to make sure they can deliver my card. their delivery address didnt have unit number
+- [X] wipe/clean my chair
+- [X] think of how to ask sophie to be official
+- [X] organize google drive
+- [X] organize contacts
+- [X] analyze badminton games
+- [X] arrange fyp demo date
+- [X] think of a gift for sophie and set up a date date for her birthday
+- [X] tinker a bit more with revolut and look into wise
+- [X] add my new dbs debit card to grab
+- [X] get gift wrap and write a note for my jabra gift to sophie
+- [X] clean my keyboard
+- [X] add ppls birthdays to contacts
+- [X] organize phone downloads folder
+- [X] dust pc
+- [X] sort out stanchart fraud
+- [X] clean keyboard/table
+- [X] export keep diary entries to daylio ? nah i dont think i will
+- [X] check mailbox and collect revolut card
