@@ -1,6 +1,8 @@
 #### Notes
 Ordered on 2024-01-09
 Received on
+
+Considered getting a Ryzen 5600X CPU instead, but settled on this Intel one because the Ryzen one was released in 2020. The latest Ryzen release was a little bit more expensive than this Intel one as well.
 #### Specs
 
 - Case: NZXT H5 Flow - White
