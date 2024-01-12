@@ -5,7 +5,6 @@ tags:
   - Keep
   - Keep/Journal
 ---
-
 2300pm ate a quarter
 0000 definitely hasnt fully kicked in
 also ate a lil more sometime around here idk when exactly though
