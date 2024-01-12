@@ -6,7 +6,7 @@ Finally broke on 2024-01-09. PSU still works when I tested it, so I think its a 
 
 It has been acting up a bit in the past, so its time for a new PC. I think I sent it for repair either once or twice. I managed to fix it recently by unscrewing and rescrewing the SSD.
 
-Did a bit of research then placed an order for my [[01 Notes/Tech/2024-01-09 Mansa Flow|Flow]] from Mansa Computers.
+Did a bit of research then placed an order for my [[03 Tracking/Tech/2024-01-09 Mansa Flow|Flow]] from Mansa Computers.
 #### Specs
 
 Level 5 RYZEN 5 3600 RTX 2060 AMP OC

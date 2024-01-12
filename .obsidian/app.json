@@ -1,7 +1,7 @@
 {
   "mobilePullAction": "markdown:toggle-preview",
   "promptDelete": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
