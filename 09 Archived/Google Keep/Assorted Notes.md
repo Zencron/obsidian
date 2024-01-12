@@ -1,6 +1,9 @@
 ---
 tags:
   - Keep
+  - Archived
+aliases:
+  - sai pang xie
 ---
 
 ironfell style unit combat unlikely because of significant graphical requirement
@@ -36,3 +39,14 @@ Effective
 Accomplished
 
 
+You don't need to know all the answers. No one is smart enough to ask you all the questions.
+
+
+sai pang xie
+egg dish from super duck
+
+
+37 rule
+
+
+0000648988

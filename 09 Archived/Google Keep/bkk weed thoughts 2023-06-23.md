@@ -3,6 +3,7 @@ aliases:
   - bkk weed thoughts 26/6/23
 tags:
   - Keep
+  - Keep/Journal
 ---
 
 2300pm ate a quarter
